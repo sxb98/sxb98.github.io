@@ -17,4 +17,4 @@ I obtained my M.A. degree from the School of Public Affiars at Xiamen University
 
 Since 2022, I have taken to Weibo (China’s Twitter) to introduce social science research from top academic journals. 
 
-You can reach me via email: ![sunxibinfinch@163.com].
+You can reach me via email: [sunxibinfinch@163.com].
