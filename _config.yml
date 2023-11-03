@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xibin Sun"
 title_separator          : "-"
 name                     : &name "Xibin Sun"
 description              : &description "Ph.D. in Political Science"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. in Political Science"
   location         : "NanJing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            :"https://weibo.com/u/6102634563"
   xing             :
   youtube          :
   wikipedia        :
